@@ -7,11 +7,10 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  title = "Dimension"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  title = "Nombre de mi empresa"
+  description = '<!--[--><div style="text-align:center;"><img src="/image/logo.png" height="100px"></img></br></br>Frase descriptiva de su empresa </div><!--]-->'
   logo = "fa-diamond"
-  copyright = "Servicio provisto por <a href='http://www.leantech.cl/' target='_blank'>Leantech.</a>"
+  copyright = '<!--[-->Servicio provisto por <a href="http://www.leantech.cl/" target="_blank">Leantech.</a><!--]-->'
 
 [[params.social]]
   medium = "twitter"
